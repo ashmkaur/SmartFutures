@@ -1,2 +1,2 @@
 # SmartFutures
-This a study related website. I've completed the frontend part and still working on backend. This particular site is responsive.
+"I have successfully implemented the frontend for my study-related website, ensuring a seamless and user-friendly experience across various devices. Currently, I am actively working on developing the backend functionalities to enhance the overall functionality of the site. The responsive design ensures that users can access and interact with the content seamlessly, regardless of the device they are using. Stay tuned for further updates as I continue to refine and optimize the backend to provide a comprehensive and efficient platform for educational purposes."
